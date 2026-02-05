@@ -10,7 +10,7 @@ Criação de uma infraestrutura completa no Azure com VM Linux acessível via SS
 - Módulo networking: VNet, 2 Subnets, NSG com regras, associações
 - Módulo compute: Public IP, Network Interface, VM Linux Ubuntu 22.04
 - Conexão SSH com chave pública
-
+ 
 ## Estrutura de Arquivos
 
 ```

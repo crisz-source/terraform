@@ -117,7 +117,7 @@ Para destruir (importante pra não gastar crédito):
 
 ```bash
 terraform destroy
-```
+```  
 
 ## Observações sobre a subscription Azure for Students
 

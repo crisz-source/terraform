@@ -1,0 +1,7 @@
+{
+	"/subscriptions/67e35d63-a466-4f40-bfb9-c5ecfcb0da62/resourceGroups/rg-importado": {
+		"resource_id": "/subscriptions/67e35d63-a466-4f40-bfb9-c5ecfcb0da62/resourceGroups/rg-importado",
+		"resource_type": "azurerm_resource_group",
+		"resource_name": "res-0"
+	}
+}

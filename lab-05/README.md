@@ -112,7 +112,7 @@ Para conectar na VM:
 ```bash
 ssh -i ~/.ssh/lab05-key adminuser@IP_PUBLICO
 ```
-
+ 
 Para destruir (importante pra não gastar crédito):
 
 ```bash

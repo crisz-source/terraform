@@ -1,0 +1,1 @@
+teste que eu fiz importando algo criado no portal da azure para o terrafom.

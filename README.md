@@ -179,8 +179,8 @@ terraform workspace select <nome>
 
 ## Próximos Passos
 
-- [Integração com Ansible para configuração de VMs]: (https://github.com/crisz-source/ansible)
-- [Projeto completo: Terraform + Ansible + Docker]: (https://github.com/crisz-source/projeto_terraform)
+- [Integração com Ansible para configuração de VMs](https://github.com/crisz-source/ansible)
+- [Projeto completo: Terraform + Ansible + Docker](https://github.com/crisz-source/projeto_terraform)
 
 ## Referências
 

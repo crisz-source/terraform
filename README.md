@@ -179,10 +179,8 @@ terraform workspace select <nome>
 
 ## Próximos Passos
 
-- [ ] Estudar HCP Terraform para certificação 004
-- [ ] Integração com Ansible para configuração de VMs
-- [ ] Pipeline CI/CD com GitHub Actions
-- [ ] Projeto completo: Terraform + Ansible + Docker
+- [Integração com Ansible para configuração de VMs]: (https://github.com/crisz-source/ansible)
+- [Projeto completo: Terraform + Ansible + Docker]: (https://github.com/crisz-source/projeto_terraform)
 
 ## Referências
 
